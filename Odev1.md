@@ -4,18 +4,32 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-E   | Ali Emir Dalyancı | 625
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+#  ***Magic Motor - 1999***
+## *Özet*
+   Benim yaptığım proje *Magic Motor*'da amacım elektrik enerjisini
+ kinetik enerjiye çevirmek. Bunu yapan araçlara elektrik motoru denir. 
+ Bunu yapmak için iletken bir tel, bir pil,
+ bir sabit mıknatıs ve bobin kullanacağım. Benim projemin
+ prensibi şöyledir:
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+Herhangi bir iletkene doğru akım uygulandığında iletken, sabit bir manyetik alan meydana getirir. N ve S kutuplarından meydana gelen bu sabit manyetik alan etki alanının içindeki iletken cisimlere yada farklı manyetik alanlara sabit mıknatısın gösterdiği etkiyi gösterir. İletken cisimleri çeker, aynı kutuplu manyetik alanları iter; farklı kutuplu manyetik alanları çeker. N kutbundan S kutbuna doğru meydana gelen bu kuvvete manyetik akı adı verilir.
 
+Yapımının planı ise şöyledir:
+
+D boy pili herhangi bir iletkene bobin sayesinde dokunduracağım.
+Bu sayede manyetik bir alan oluşacak. Pil ve iletken arasına
+sabit mıknatıs yerleştireceğim ve projenin yapımı tamamlanacak.   
+
+## *Kaynakçalar*  
+ 1. DC Motor Nedir?. elektronik.gen.tr .
+      http://www.elektronik.gen.tr/dc-motor-nedir/
+      Son Erişim Tarihi: 19 Aralık 2015
+ 2. "Basit Elektrik Motorunun Çalışma Mantığı Ve Manyetik Alan" Youtube
+ https://www.youtube.com/watch?v=dRJ2BXH81Ko
+ Son Erişim Tarihi: 6 Haziran 2016
+ 3. Erol Y. "Kendimiz Yapalım - Basit Elektrik Motoru". Bilim Genç- TÜBİTAK
+http://www.bilimgenc.tubitak.gov.tr/makale/kendimiz-yapalim-basit-elektrik-motoru
+Son Erişim Tarihi: 10 Şubat 2015
