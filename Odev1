@@ -14,11 +14,9 @@ Sınıf | Öğrenci İsmi  | Numara
  Bunu yapmak için iletken bir tel, bir pil,
  bir sabit mıknatıs ve bobin kullanacağım. Benim projemin
  prensibi şöyledir:
-
 Herhangi bir iletkene doğru akım uygulandığında iletken, sabit bir manyetik alan meydana getirir. N ve S kutuplarından meydana gelen bu sabit manyetik alan etki alanının içindeki iletken cisimlere yada farklı manyetik alanlara sabit mıknatısın gösterdiği etkiyi gösterir. İletken cisimleri çeker, aynı kutuplu manyetik alanları iter; farklı kutuplu manyetik alanları çeker. N kutbundan S kutbuna doğru meydana gelen bu kuvvete manyetik akı adı verilir.
 
 Yapımının planı ise şöyledir:
-
 D boy pili herhangi bir iletkene bobin sayesinde dokunduracağım.
 Bu sayede manyetik bir alan oluşacak. Pil ve iletken arasına
 sabit mıknatıs yerleştireceğim ve projenin yapımı tamamlanacak.   
